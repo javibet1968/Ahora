@@ -1,0 +1,482 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="la1.es" tvg-name="ES: LA 1 HD" tvg-logo="" group-title="Live: Spain",ES: LA 1 HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/3364
+#EXTINF:-1 tvg-ID="la2.es" tvg-name="ES: LA 2" tvg-logo="" group-title="Live: Spain",ES: LA 2
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/622
+#EXTINF:-1 tvg-ID="antena3.es" tvg-name="ES: ANTENA3 HD" tvg-logo="[" group-title="Live: Spain",ES: ANTENA3 HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/3383
+#EXTINF:-1 tvg-ID="cuatro.es" tvg-name="ES: CUATRO FHD" tvg-logo="" group-title="Live: Spain",ES: CUATRO FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/3391
+#EXTINF:-1 tvg-ID="telecinco.es" tvg-name="ES: TELECINCO HD" tvg-logo="[" group-title="Live: Spain",ES: TELECINCO HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/3384
+#EXTINF:-1 tvg-ID="lasexta.es" tvg-name="ES: LA SEXTA FHD" tvg-logo="[" group-title="Live: Spain",ES: LA SEXTA FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/3392
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: 7RM FHD" tvg-logo="[" group-title="Live: Spain",ES: 7RM FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23076
+#EXTINF:-1 tvg-ID="8 tv ES" tvg-name="ES: 8TV Madrid" tvg-logo="" group-title="Live: Spain",ES: 8TV Madrid
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/1090
+#EXTINF:-1 tvg-ID="" tvg-name="ES: # Vamos SD" tvg-logo="" group-title="Live: Spain",ES: # Vamos SD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/34551
+#EXTINF:-1 tvg-ID="vamos.es" tvg-name="ES: # Vamos" tvg-logo="" group-title="Live: Spain",ES: # Vamos
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/1085
+#EXTINF:-1 tvg-ID="vamos.es" tvg-name="ES: # Vamos FHD" tvg-logo="[" group-title="Live: Spain",ES: # Vamos FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23061
+#EXTINF:-1 tvg-ID="vamos.es" tvg-name="ES: # Vamos HD" tvg-logo="" group-title="Live: Spain",ES: # Vamos HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/3372
+#EXTINF:-1 tvg-ID="" tvg-name="ES: # Vamos BAR" tvg-logo="" group-title="Live: Spain",ES: # Vamos BAR
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/34556
+#EXTINF:-1 tvg-ID="" tvg-name="ES: # Vamos BAR 1" tvg-logo="" group-title="Live: Spain",ES: # Vamos BAR 1
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/34557
+#EXTINF:-1 tvg-ID="" tvg-name="ES: # Vamos BAR 2" tvg-logo="" group-title="Live: Spain",ES: # Vamos BAR 2
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/34558
+#EXTINF:-1 tvg-ID="dcineespanol.es" tvg-name="ES: #0" tvg-logo="" group-title="Live: Spain",ES: #0
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/635
+#EXTINF:-1 tvg-ID="Number 0 ES" tvg-name="ES: #O HD" tvg-logo="" group-title="Live: Spain",ES: #O HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2401
+#EXTINF:-1 tvg-ID="Number 0 ES" tvg-name="ES: #O HD FHD" tvg-logo="[""]" group-title="Live: Spain",ES: #O HD FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23060
+#EXTINF:-1 tvg-ID="24horas.es" tvg-name="ES: 24 HORAS" tvg-logo="" group-title="Live: Spain",ES: 24 HORAS
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2630
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M.CRIMEN" tvg-logo="" group-title="Live: Spain",ES: M.CRIMEN
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23077
+#EXTINF:-1 tvg-ID="aande.es" tvg-name="ES: A&E" tvg-logo="[" group-title="Live: Spain",ES: A&E
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2643
+#EXTINF:-1 tvg-ID="atreseries.es" tvg-name="ES: A3 Series" tvg-logo="[" group-title="Live: Spain",ES: A3 Series
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/12630
+#EXTINF:-1 tvg-ID="atreseries.es" tvg-name="ES: A3Series HD" tvg-logo="[" group-title="Live: Spain",ES: A3Series HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/19208
+#EXTINF:-1 tvg-ID="amc.es" tvg-name="ES: AMC" tvg-logo="[" group-title="Live: Spain",ES: AMC
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2638
+#EXTINF:-1 tvg-ID="amc.es" tvg-name="ES: AMC FHD" tvg-logo="[""]" group-title="Live: Spain",ES: AMC FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23020
+#EXTINF:-1 tvg-ID="amc.es" tvg-name="ES: AMC HD" tvg-logo="" group-title="Live: Spain",ES: AMC HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/3371
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Andalucia TV" tvg-logo="" group-title="Live: Spain",ES: Andalucia TV
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/1440
+#EXTINF:-1 tvg-ID="antena3.es" tvg-name="ES: Antena3" tvg-logo="" group-title="Live: Spain",ES: Antena3
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/1097
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Aragon" tvg-logo="" group-title="Live: Spain",ES: Aragon
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/8211
+#EXTINF:-1 tvg-ID="axn.es" tvg-name="ES: AXN FHD" tvg-logo="[""]" group-title="Live: Spain",ES: AXN FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23059
+#EXTINF:-1 tvg-ID="axn.es" tvg-name="ES: AXN HD" tvg-logo="[""]" group-title="Live: Spain",ES: AXN HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/3385
+#EXTINF:-1 tvg-ID="axn.es" tvg-name="ES: Axn Spain" tvg-logo="[""]" group-title="Live: Spain",ES: Axn Spain
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/641
+#EXTINF:-1 tvg-ID="axnwhite.es" tvg-name="ES: AXN White FHD" tvg-logo="[" group-title="Live: Spain",ES: AXN White FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23058
+#EXTINF:-1 tvg-ID="axnwhite.es" tvg-name="ES: AXN WHITE HD" tvg-logo="" group-title="Live: Spain",ES: AXN WHITE HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/3366
+#EXTINF:-1 tvg-ID="axnwhite.es" tvg-name="ES: Axn White Spain" tvg-logo="[""]" group-title="Live: Spain",ES: Axn White Spain
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/640
+#EXTINF:-1 tvg-ID="babytv.es" tvg-name="ES: Baby TV" tvg-logo="" group-title="Live: Spain",ES: Baby TV
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23074
+#EXTINF:-1 tvg-ID="barcatv.es" tvg-name="ES: Barca TV FHD" tvg-logo="" group-title="Live: Spain",ES: Barca TV FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/639
+#EXTINF:-1 tvg-ID="bemad.es" tvg-name="ES: Be MAD TV HD" tvg-logo="[""]" group-title="Live: Spain",ES: Be MAD TV HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/19209
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLiga H265" tvg-logo="" group-title="Live: Spain",ES: M. LaLiga H265
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/49814
+#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="ES: M. LaLiga FHD" tvg-logo="[" group-title="Live: Spain",ES: M. LaLiga FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23057
+#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="ES: M. LaLiga HD" tvg-logo="[" group-title="Live: Spain",ES: M. LaLiga HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/19207
+#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="ES: M. LaLiga" tvg-logo="" group-title="Live: Spain",ES: M. LaLiga
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2409
+#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="ES: M. LaLiga SD" tvg-logo="" group-title="Live: Spain",ES: M. LaLiga SD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/33150
+#EXTINF:-1 tvg-ID="beinlaliga1.es" tvg-name="ES: M. LaLIga 1 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 1 (event only)
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/7181
+#EXTINF:-1 tvg-ID="beinlaliga1.es" tvg-name="ES: M. LaLiga 1FHD (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLiga 1FHD (event only)
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23105
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 2 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 2 (event only)
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/7182
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLiga 2FHD (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLiga 2FHD (event only)
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23104
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 3 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 3 (event only)
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/7183
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 3FHD (event only)" tvg-logo="" group-title="Live: Spain",ES: M. LaLIga 3FHD (event only)
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/34550
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 4 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 4 (event only)
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23103
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 5 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 5 (event only)
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23102
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 6 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 6 (event only)
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23101
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 7 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 7 (event only)
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23100
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 8 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 8 (event only)
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23099
+#EXTINF:-1 tvg-ID="blaze.es" tvg-name="ES: BLAZE" tvg-logo="" group-title="Live: Spain",ES: BLAZE
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23075
+#EXTINF:-1 tvg-ID="boing.es" tvg-name="ES: Boing" tvg-logo="[""]" group-title="Live: Spain",ES: Boing
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2211
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Bom Cine HD" tvg-logo="[" group-title="Live: Spain",ES: Bom Cine HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23073
+#EXTINF:-1 tvg-ID="crimeinvestigation.es" tvg-name="ES: C&I" tvg-logo="[""]" group-title="Live: Spain",ES: C&I
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/8209
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Cadena Ser" tvg-logo="" group-title="Live: Spain",ES: Cadena Ser
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23072
+#EXTINF:-1 tvg-ID="calle13.es" tvg-name="ES: Calle 13" tvg-logo="" group-title="Live: Spain",ES: Calle 13
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/1096
+#EXTINF:-1 tvg-ID="calle13.es" tvg-name="ES: CALLE 13 FHD" tvg-logo="[""]" group-title="Live: Spain",ES: CALLE 13 FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23056
+#EXTINF:-1 tvg-ID="calle13.es" tvg-name="ES: CALLE 13 HD" tvg-logo="" group-title="Live: Spain",ES: CALLE 13 HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/3368
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Canal Coccina" tvg-logo="" group-title="Live: Spain",ES: Canal Coccina
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/1103
+#EXTINF:-1 tvg-ID="canaldecasa.es" tvg-name="ES: Canal Decasa" tvg-logo="" group-title="Live: Spain",ES: Canal Decasa
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2632
+#EXTINF:-1 tvg-ID="canalsur.es" tvg-name="ES: Canal Sur FHD" tvg-logo="[""]" group-title="Live: Spain",ES: Canal Sur FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23070
+#EXTINF:-1 tvg-ID="cazapesca.es" tvg-name="ES: Caza y pesca" tvg-logo="[" group-title="Live: Spain",ES: Caza y pesca
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/1102
+#EXTINF:-1 tvg-ID="cazapesca.es" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="[""]" group-title="Live: Spain",ES: CAZA Y PESCA FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23055
+#EXTINF:-1 tvg-ID="cazapesca.es" tvg-name="ES: CAZA Y PESCA HD" tvg-logo="" group-title="Live: Spain",ES: CAZA Y PESCA HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/8206
+#EXTINF:-1 tvg-ID="clantve.es" tvg-name="ES: Clan Tve" tvg-logo="" group-title="Live: Spain",ES: Clan Tve
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/1100
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Classica" tvg-logo="[""]" group-title="Live: Spain",ES: Classica
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2637
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Tolkien" tvg-logo="" group-title="Live: Spain",ES: M. Tolkien
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23069
+#EXTINF:-1 tvg-ID="comedycentral.es" tvg-name="ES: Comedy Central" tvg-logo="[" group-title="Live: Spain",ES: Comedy Central
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2633
+#EXTINF:-1 tvg-ID="comedycentral.es" tvg-name="ES: COMEDY CENTRAL FHD" tvg-logo="[" group-title="Live: Spain",ES: COMEDY CENTRAL FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23054
+#EXTINF:-1 tvg-ID="comedycentral.es" tvg-name="ES: COMEDY CENTRAL HD" tvg-logo="" group-title="Live: Spain",ES: COMEDY CENTRAL HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/3386
+#EXTINF:-1 tvg-ID="cosmo.es" tvg-name="ES: COSMO FHD" tvg-logo="[" group-title="Live: Spain",ES: COSMO FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23053
+#EXTINF:-1 tvg-ID="cosmo.es" tvg-name="ES: COSMO HD" tvg-logo="" group-title="Live: Spain",ES: COSMO HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/3387
+#EXTINF:-1 tvg-ID="cuatro.es" tvg-name="ES: Cuatro hd" tvg-logo="" group-title="Live: Spain",ES: Cuatro hd
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/627
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Dcine" tvg-logo="" group-title="Live: Spain",ES: Dcine
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/634
+#EXTINF:-1 tvg-ID="discoverychannel.es" tvg-name="ES: DISCOVERY CHANNEL FHD" tvg-logo="" group-title="Live: Spain",ES: DISCOVERY CHANNEL FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23052
+#EXTINF:-1 tvg-ID="discoverychannel.es" tvg-name="ES: DISCOVERY CHANNEL HD" tvg-logo="" group-title="Live: Spain",ES: DISCOVERY CHANNEL HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/3376
+#EXTINF:-1 tvg-ID="disneychannel.es" tvg-name="ES: DISNEY CHANNEL FHD" tvg-logo="[""]" group-title="Live: Spain",ES: DISNEY CHANNEL FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23051
+#EXTINF:-1 tvg-ID="disneychannel.es" tvg-name="ES: DISNEY CHANNEL HD" tvg-logo="" group-title="Live: Spain",ES: DISNEY CHANNEL HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/3382
+#EXTINF:-1 tvg-ID="disneychannel.es" tvg-name="ES: Disney Channel Spain" tvg-logo="[" group-title="Live: Spain",ES: Disney Channel Spain
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/633
+#EXTINF:-1 tvg-ID="disneyjunior.es" tvg-name="ES: Disney Junior" tvg-logo="[" group-title="Live: Spain",ES: Disney Junior
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/12631
+#EXTINF:-1 tvg-ID="disneyxd.es" tvg-name="ES: DISNEY+" tvg-logo="" group-title="Live: Spain",ES: DISNEY+
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/12632
+#EXTINF:-1 tvg-ID="divinity.es" tvg-name="ES: DIVINITY" tvg-logo="" group-title="Live: Spain",ES: DIVINITY
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2218
+#EXTINF:-1 tvg-ID="dkiss.es" tvg-name="ES: DKiss" tvg-logo="" group-title="Live: Spain",ES: DKiss
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/12633
+#EXTINF:-1 tvg-ID="discoverymax.es" tvg-name="ES: Dmax" tvg-logo="" group-title="Live: Spain",ES: Dmax
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2641
+#EXTINF:-1 tvg-ID="" tvg-name="ES: DW" tvg-logo="" group-title="Live: Spain",ES: DW
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/12634
+#EXTINF:-1 tvg-ID="energy.es" tvg-name="ES: Energy" tvg-logo="" group-title="Live: Spain",ES: Energy
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/1099
+#EXTINF:-1 tvg-ID="eurosport1.es" tvg-name="ES: EUROSPORT 1FHD" tvg-logo="[" group-title="Live: Spain",ES: EUROSPORT 1FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23050
+#EXTINF:-1 tvg-ID="eurosport1.es" tvg-name="ES: EUROSPORT 1HD" tvg-logo="[" group-title="Live: Spain",ES: EUROSPORT 1HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/8204
+#EXTINF:-1 tvg-ID="eurosport2.es" tvg-name="ES: EUROSPORT 2" tvg-logo="" group-title="Live: Spain",ES: EUROSPORT 2
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/8208
+#EXTINF:-1 tvg-ID="eurosport2.es" tvg-name="ES: EUROSPORT 2FHD" tvg-logo="[" group-title="Live: Spain",ES: EUROSPORT 2FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23049
+#EXTINF:-1 tvg-ID="canalextremadurasat.es" tvg-name="ES: ExtraMadura TV" tvg-logo="" group-title="Live: Spain",ES: ExtraMadura TV
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23067
+#EXTINF:-1 tvg-ID="factoriaficcion.es" tvg-name="ES: FDF" tvg-logo="" group-title="Live: Spain",ES: FDF
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/1098
+#EXTINF:-1 tvg-ID="fox.es" tvg-name="ES: Fox" tvg-logo="[""]" group-title="Live: Spain",ES: Fox
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/631
+#EXTINF:-1 tvg-ID="foxlife.es" tvg-name="ES: FOX FHD" tvg-logo="[" group-title="Live: Spain",ES: FOX FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23048
+#EXTINF:-1 tvg-ID="fox.es" tvg-name="ES: FOX HD" tvg-logo="" group-title="Live: Spain",ES: FOX HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/3367
+#EXTINF:-1 tvg-ID="foxlife.es" tvg-name="ES: FOX LIFE FHD" tvg-logo="[""]" group-title="Live: Spain",ES: FOX LIFE FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23047
+#EXTINF:-1 tvg-ID="foxlife.es" tvg-name="ES: FOX LIFE HD" tvg-logo="" group-title="Live: Spain",ES: FOX LIFE HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/6815
+#EXTINF:-1 tvg-ID="" tvg-name="ES: FOX News" tvg-logo="" group-title="Live: Spain",ES: FOX News
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23068
+#EXTINF:-1 tvg-ID="gol.es" tvg-name="ES: GOL T" tvg-logo="" group-title="Live: Spain",ES: GOL T
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/1084
+#EXTINF:-1 tvg-ID="historia.es" tvg-name="ES: Historia" tvg-logo="[""]" group-title="Live: Spain",ES: Historia
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/630
+#EXTINF:-1 tvg-ID="historia.es" tvg-name="ES: Historia FHD" tvg-logo="[""]" group-title="Live: Spain",ES: Historia FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23023
+#EXTINF:-1 tvg-ID="" tvg-name="ES: HIT TV" tvg-logo="" group-title="Live: Spain",ES: HIT TV
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23066
+#EXTINF:-1 tvg-ID="hollywood.es" tvg-name="ES: Hollywood" tvg-logo="" group-title="Live: Spain",ES: Hollywood
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/629
+#EXTINF:-1 tvg-ID="hollywood.es" tvg-name="ES: HOLLYWOOD FHD" tvg-logo="[""]" group-title="Live: Spain",ES: HOLLYWOOD FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23046
+#EXTINF:-1 tvg-ID="hollywood.es" tvg-name="ES: HOLLYWOOD HD" tvg-logo="[""]" group-title="Live: Spain",ES: HOLLYWOOD HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/3369
+#EXTINF:-1 tvg-ID="iberaliatv.es" tvg-name="ES: Iberlia TV" tvg-logo="" group-title="Live: Spain",ES: Iberlia TV
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2629
+#EXTINF:-1 tvg-ID="la1.es" tvg-name="ES: LA 1" tvg-logo="" group-title="Live: Spain",ES: LA 1
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/623
+#EXTINF:-1 tvg-ID="la2.es" tvg-name="ES: La 2 SD" tvg-logo="[""]" group-title="Live: Spain",ES: La 2 SD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23025
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: La Liga BAR H265" tvg-logo="" group-title="Live: Spain",ES: La Liga BAR H265
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/49813
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: La Liga BAR FHD" tvg-logo="[" group-title="Live: Spain",ES: La Liga BAR FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23045
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: La Liga BAR SD" tvg-logo="" group-title="Live: Spain",ES: La Liga BAR SD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/34552
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: La Liga BAR HD" tvg-logo="[" group-title="Live: Spain",ES: La Liga BAR HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/7180
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: La Liga BAR M1" tvg-logo="" group-title="Live: Spain",ES: La Liga BAR M1
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23065
+#EXTINF:-1 tvg-ID="" tvg-name="ES: La Liga BAR M2" tvg-logo="" group-title="Live: Spain",ES: La Liga BAR M2
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/34553
+#EXTINF:-1 tvg-ID="" tvg-name="ES: La Liga BAR M3" tvg-logo="" group-title="Live: Spain",ES: La Liga BAR M3
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/34554
+#EXTINF:-1 tvg-ID="" tvg-name="ES: La Liga BAR M4" tvg-logo="" group-title="Live: Spain",ES: La Liga BAR M4
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/34555
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: INTERECONOMIA" tvg-logo="" group-title="Live: Spain",ES: INTERECONOMIA
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/12637
+#EXTINF:-1 tvg-ID="lasexta.es" tvg-name="ES: La Sexta hd" tvg-logo="[" group-title="Live: Spain",ES: La Sexta hd
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/628
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Melilla TV" tvg-logo="" group-title="Live: Spain",ES: Melilla TV
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/12636
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Levante TV" tvg-logo="" group-title="Live: Spain",ES: Levante TV
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2640
+#EXTINF:-1 tvg-ID="movistaraccion.es" tvg-name="ES: M. Accion" tvg-logo="" group-title="Live: Spain",ES: M. Accion
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/638
+#EXTINF:-1 tvg-ID="movistaraccion.es" tvg-name="ES: M. Accion FHD" tvg-logo="" group-title="Live: Spain",ES: M. Accion FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23042
+#EXTINF:-1 tvg-ID="movistaraccion.es" tvg-name="ES: M. Accion HD" tvg-logo="[" group-title="Live: Spain",ES: M. Accion HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2402
+#EXTINF:-1 tvg-ID="moviestardrama.es" tvg-name="ES: M. Cine N" tvg-logo="[" group-title="Live: Spain",ES: M. Cine N
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/17207
+#EXTINF:-1 tvg-ID="movistarcomedia.es" tvg-name="ES: M. Comedia" tvg-logo="" group-title="Live: Spain",ES: M. Comedia
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/637
+#EXTINF:-1 tvg-ID="movistarcomedia.es" tvg-name="ES: M. Comedia FHD" tvg-logo="" group-title="Live: Spain",ES: M. Comedia FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23043
+#EXTINF:-1 tvg-ID="movistarcomedia.es" tvg-name="ES: M. Comedia HD" tvg-logo="[" group-title="Live: Spain",ES: M. Comedia HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2403
+#EXTINF:-1 tvg-ID="movistardeportes.es" tvg-name="ES: M. Deportes FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23041
+#EXTINF:-1 tvg-ID="movistardeportes.es" tvg-name="ES: M. Deportes HD" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2407
+#EXTINF:-1 tvg-ID="movistardeportes.es" tvg-name="ES: M. Deportes" tvg-logo="" group-title="Live: Spain",ES: M. Deportes
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/636
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 1" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 1
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23094
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 1 FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 1 FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23032
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 2" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 2
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23093
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 3" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 3
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23092
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 4" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 4
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23091
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 5" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 5
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23090
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 6" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 6
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23089
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Deportes 7" tvg-logo="" group-title="Live: Spain",ES: M. Deportes 7
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23088
+#EXTINF:-1 tvg-ID="mdisney.es" tvg-name="ES: M. DISNEY" tvg-logo="[" group-title="Live: Spain",ES: M. DISNEY
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23031
+#EXTINF:-1 tvg-ID="mcinedocandroll.es" tvg-name="ES: M. Doc&Roll" tvg-logo="" group-title="Live: Spain",ES: M. Doc&Roll
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/1091
+#EXTINF:-1 tvg-ID="mcinedocandroll.es" tvg-name="ES: M. Doc&Roll FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Doc&Roll FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23040
+#EXTINF:-1 tvg-ID="mcinedocandroll.es" tvg-name="ES: M. Doc&Roll HD" tvg-logo="[" group-title="Live: Spain",ES: M. Doc&Roll HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/3388
+#EXTINF:-1 tvg-ID="moviestardrama.es" tvg-name="ES: M. Drama FHD" tvg-logo="" group-title="Live: Spain",ES: M. Drama FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23039
+#EXTINF:-1 tvg-ID="moviestardrama.es" tvg-name="ES: M. Drama HD" tvg-logo="" group-title="Live: Spain",ES: M. Drama HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2404
+#EXTINF:-1 tvg-ID="movistarestrenos.es" tvg-name="ES: M. Estrenos" tvg-logo="" group-title="Live: Spain",ES: M. Estrenos
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/1094
+#EXTINF:-1 tvg-ID="movistarestrenos.es" tvg-name="ES: M. Estrenos FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Estrenos FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23038
+#EXTINF:-1 tvg-ID="movistarestrenos.es" tvg-name="ES: M. Estrenos HD" tvg-logo="" group-title="Live: Spain",ES: M. Estrenos HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2405
+#EXTINF:-1 tvg-ID="movistarformula1.es" tvg-name="ES: Dazn F1" tvg-logo="[" group-title="Live: Spain",ES: Dazn F1
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/1087
+#EXTINF:-1 tvg-ID="movistarformula1.es" tvg-name="ES: DAZN F1 FHD" tvg-logo="[" group-title="Live: Spain",ES: DAZN F1 FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23037
+#EXTINF:-1 tvg-ID="movistarformula1.es" tvg-name="ES: DAZN F1 HD" tvg-logo="" group-title="Live: Spain",ES: DAZN F1 HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2570
+#EXTINF:-1 tvg-ID="movistarfutbol.es" tvg-name="ES: M. Futbol HD" tvg-logo="" group-title="Live: Spain",ES: M. Futbol HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2408
+#EXTINF:-1 tvg-ID="movistargolf.es" tvg-name="ES: M. Golf" tvg-logo="[""]" group-title="Live: Spain",ES: M. Golf
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/1086
+#EXTINF:-1 tvg-ID="movistargolf.es" tvg-name="ES: M. Golf FHD" tvg-logo="[""]" group-title="Live: Spain",ES: M. Golf FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23036
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones FHD H265" tvg-logo="" group-title="Live: Spain",ES: M. Liga De Campeones FHD H265
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/49812
+#EXTINF:-1 tvg-ID="mligadecampeonesuhd.es" tvg-name="ES: M. Liga De Campeones FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23035
+#EXTINF:-1 tvg-ID="mligadecampeones.es" tvg-name="ES: M. Liga De Campeones HD" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/19206
+#EXTINF:-1 tvg-ID="mligadecampeones.es" tvg-name="ES: M. Liga De Campeones" tvg-logo="" group-title="Live: Spain",ES: M. Liga De Campeones
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/6491
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 1 FHD" tvg-logo="" group-title="Live: Spain",ES: M. Liga De Campeones 1 FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/1441
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 1" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 1
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/19205
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 2" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 2
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/19204
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 3" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 3
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/19203
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 4" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 4
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/19202
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 5" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 5
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/19201
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 6" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 6
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23098
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 7" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 7
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/19200
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 8" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 8
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/19199
+#EXTINF:-1 tvg-ID="movistarseries.es" tvg-name="ES: M. Series" tvg-logo="[" group-title="Live: Spain",ES: M. Series
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/1093
+#EXTINF:-1 tvg-ID="movistarseries.es" tvg-name="ES: M. Series FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Series FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23034
+#EXTINF:-1 tvg-ID="movistarseries.es" tvg-name="ES: M. Series HD" tvg-logo="" group-title="Live: Spain",ES: M. Series HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2406
+#EXTINF:-1 tvg-ID="movistarseriesmania.es" tvg-name="ES: M. Series Mania FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Series Mania FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23033
+#EXTINF:-1 tvg-ID="movistarseriesmania.es" tvg-name="ES: M. Series Mania HD" tvg-logo="" group-title="Live: Spain",ES: M. Series Mania HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/3365
+#EXTINF:-1 tvg-ID="movistarseriesmania.es" tvg-name="ES: M. SeriesMania" tvg-logo="[" group-title="Live: Spain",ES: M. SeriesMania
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/1095
+#EXTINF:-1 tvg-ID="movistargolf.es" tvg-name="ES: M.Golf  HD" tvg-logo="" group-title="Live: Spain",ES: M.Golf  HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/3373
+#EXTINF:-1 tvg-ID="mega.es" tvg-name="ES: Mega HD" tvg-logo="[" group-title="Live: Spain",ES: Mega HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2217
+#EXTINF:-1 tvg-ID="mezzolivehd.es" tvg-name="ES: MEZZO LIVE HD" tvg-logo="" group-title="Live: Spain",ES: MEZZO LIVE HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/8205
+#EXTINF:-1 tvg-ID="mtv.es" tvg-name="ES: MTV Spana" tvg-logo="[" group-title="Live: Spain",ES: MTV Spana
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2213
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte" tvg-logo="" group-title="Live: Spain",ES: Multideporte
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/12629
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 1" tvg-logo="" group-title="Live: Spain",ES: Multideporte 1
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23087
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 2" tvg-logo="" group-title="Live: Spain",ES: Multideporte 2
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23086
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 3" tvg-logo="" group-title="Live: Spain",ES: Multideporte 3
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23085
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 4" tvg-logo="" group-title="Live: Spain",ES: Multideporte 4
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23084
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 5" tvg-logo="" group-title="Live: Spain",ES: Multideporte 5
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23083
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 6" tvg-logo="" group-title="Live: Spain",ES: Multideporte 6
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23082
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 7" tvg-logo="" group-title="Live: Spain",ES: Multideporte 7
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23081
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 8" tvg-logo="" group-title="Live: Spain",ES: Multideporte 8
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23080
+#EXTINF:-1 tvg-ID="natgeo.es" tvg-name="ES: Nat Geo" tvg-logo="[" group-title="Live: Spain",ES: Nat Geo
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/1101
+#EXTINF:-1 tvg-ID="natgeowild.es" tvg-name="ES: Nat Geo Wild" tvg-logo="[""]" group-title="Live: Spain",ES: Nat Geo Wild
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/626
+#EXTINF:-1 tvg-ID="natgeowild.es" tvg-name="ES: NAT GEO WILD FHD" tvg-logo="[""]" group-title="Live: Spain",ES: NAT GEO WILD FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23030
+#EXTINF:-1 tvg-ID="natgeowild.es" tvg-name="ES: NAT GEO WILD HD" tvg-logo="" group-title="Live: Spain",ES: NAT GEO WILD HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/3389
+#EXTINF:-1 tvg-ID="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC FHD" tvg-logo="[""]" group-title="Live: Spain",ES: NATIONAL GEOGRAPHIC FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23029
+#EXTINF:-1 tvg-ID="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="[""]" group-title="Live: Spain",ES: NATIONAL GEOGRAPHIC HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/3375
+#EXTINF:-1 tvg-ID="neox.es" tvg-name="ES: NEOX HD" tvg-logo="[" group-title="Live: Spain",ES: NEOX HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2216
+#EXTINF:-1 tvg-ID="nickjr.es" tvg-name="ES: Nick Jr" tvg-logo="[""]" group-title="Live: Spain",ES: Nick Jr
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/12635
+#EXTINF:-1 tvg-ID="nickelodeon.es" tvg-name="ES: NICKELODEON FHD" tvg-logo="" group-title="Live: Spain",ES: NICKELODEON FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23028
+#EXTINF:-1 tvg-ID="nickelodeon.es" tvg-name="ES: NICKELODEON HD" tvg-logo="[""]" group-title="Live: Spain",ES: NICKELODEON HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/6817
+#EXTINF:-1 tvg-ID="nonstoppeople.es" tvg-name="ES: NONSTOPEOPLE" tvg-logo="" group-title="Live: Spain",ES: NONSTOPEOPLE
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/8207
+#EXTINF:-1 tvg-ID="nova.es" tvg-name="ES: NOVA" tvg-logo="" group-title="Live: Spain",ES: NOVA
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2214
+#EXTINF:-1 tvg-ID="odisea.es" tvg-name="ES: Odisea" tvg-logo="" group-title="Live: Spain",ES: Odisea
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2631
+#EXTINF:-1 tvg-ID="canalorbe21.es" tvg-name="ES: Orbe 21" tvg-logo="" group-title="Live: Spain",ES: Orbe 21
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2215
+#EXTINF:-1 tvg-ID="panda.pt" tvg-name="ES: Panda" tvg-logo="[""]" group-title="Live: Spain",ES: Panda
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23019
+#EXTINF:-1 tvg-ID="paramountchannel.es" tvg-name="ES: Paramount" tvg-logo="[""]" group-title="Live: Spain",ES: Paramount
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2642
+#EXTINF:-1 tvg-ID="realmadridtv.es" tvg-name="ES: RealMadrid TV" tvg-logo="" group-title="Live: Spain",ES: RealMadrid TV
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/632
+#EXTINF:-1 tvg-ID="realmadridtv.es" tvg-name="ES: Realmadrid TV HD" tvg-logo="[" group-title="Live: Spain",ES: Realmadrid TV HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/22796
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Realmadrid TV ( English )" tvg-logo="" group-title="Live: Spain",ES: Realmadrid TV ( English )
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/30051
+#EXTINF:-1 tvg-ID="rtespanol.es" tvg-name="ES: RTVC" tvg-logo="" group-title="Live: Spain",ES: RTVC
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/17206
+#EXTINF:-1 tvg-ID="sundance.es" tvg-name="ES: Sundance TV" tvg-logo="" group-title="Live: Spain",ES: Sundance TV
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/12641
+#EXTINF:-1 tvg-ID="sundance.es" tvg-name="ES: Sundance TV FHD" tvg-logo="[""]" group-title="Live: Spain",ES: Sundance TV FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23027
+#EXTINF:-1 tvg-ID="syfy.es" tvg-name="ES: SYFY" tvg-logo="[""]" group-title="Live: Spain",ES: SYFY
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2639
+#EXTINF:-1 tvg-ID="syfy.es" tvg-name="ES: SYFY FHD" tvg-logo="" group-title="Live: Spain",ES: SYFY FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23026
+#EXTINF:-1 tvg-ID="syfy.es" tvg-name="ES: SYFY HD" tvg-logo="[""]" group-title="Live: Spain",ES: SYFY HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/6814
+#EXTINF:-1 tvg-ID="tcm.es" tvg-name="ES: TCM FHD" tvg-logo="[""]" group-title="Live: Spain",ES: TCM FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23021
+#EXTINF:-1 tvg-ID="tcm.es" tvg-name="ES: TCM HD" tvg-logo="[""]" group-title="Live: Spain",ES: TCM HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/3370
+#EXTINF:-1 tvg-ID="telecinco.es" tvg-name="ES: Telecinco" tvg-logo="[" group-title="Live: Spain",ES: Telecinco
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/624
+#EXTINF:-1 tvg-ID="teledeporte.es" tvg-name="ES: Teledeporte" tvg-logo="" group-title="Live: Spain",ES: Teledeporte
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/1089
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: RTVCE Ceuta" tvg-logo="" group-title="Live: Spain",ES: RTVCE Ceuta
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23024
+#EXTINF:-1 tvg-ID="ten.es" tvg-name="ES: Ten" tvg-logo="" group-title="Live: Spain",ES: Ten
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/12639
+#EXTINF:-1 tvg-ID="tnt.es" tvg-name="ES: TNT" tvg-logo="[" group-title="Live: Spain",ES: TNT
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2634
+#EXTINF:-1 tvg-ID="toros.es" tvg-name="ES: TOROS FHD" tvg-logo="[" group-title="Live: Spain",ES: TOROS FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23079
+#EXTINF:-1 tvg-ID="toros.es" tvg-name="ES: TOROS HD" tvg-logo="" group-title="Live: Spain",ES: TOROS HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/6816
+#EXTINF:-1 tvg-ID="toros.es" tvg-name="ES: Torros" tvg-logo="" group-title="Live: Spain",ES: Torros
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/1092
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: CANAL MALGA" tvg-logo="" group-title="Live: Spain",ES: CANAL MALGA
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23063
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: TV Galicia" tvg-logo="" group-title="Live: Spain",ES: TV Galicia
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/1429
+#EXTINF:-1 tvg-ID="tv3cataluny.es" tvg-name="ES: TV3 Cataluña FHD" tvg-logo="[" group-title="Live: Spain",ES: TV3 Cataluña FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23062
+#EXTINF:-1 tvg-ID="tv3cataluny.es" tvg-name="ES: TV3 HD" tvg-logo="" group-title="Live: Spain",ES: TV3 HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/2210
+#EXTINF:-1 tvg-ID="viajar.es" tvg-name="ES: VIAJAR FHD" tvg-logo="[""]" group-title="Live: Spain",ES: VIAJAR FHD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/23078
+#EXTINF:-1 tvg-ID="viajar.es" tvg-name="ES: VIAJAR HD" tvg-logo="[""]" group-title="Live: Spain",ES: VIAJAR HD
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/3390
+#EXTINF:-1 tvg-ID="alquiler1.es" tvg-name="ES: Alquiler 1" tvg-logo="" group-title="Live: Spain",ES: Alquiler 1
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/12642
+#EXTM3U
+#EXTINF:-1 tvg-ID="alquiler2.es" tvg-name="ES: Alquiler 2" tvg-logo="" group-title="Live: Spain",ES: Alquiler 2
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/12644
+#EXTINF:-1 tvg-ID="alquiler3.es" tvg-name="ES: Alquiler 3" tvg-logo="" group-title="Live: Spain",ES: Alquiler 3
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/12645
+#EXTINF:-1 tvg-ID="alquiler4.es" tvg-name="ES: Alquiler 4" tvg-logo="" group-title="Live: Spain",ES: Alquiler 4
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/12646
+#EXTINF:-1 tvg-ID="alquiler5.es" tvg-name="ES: Alquiler 5" tvg-logo="" group-title="Live: Spain",ES: Alquiler 5
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/12647
+#EXTINF:-1 tvg-ID="alquiler6.es" tvg-name="ES: Alquiler 6" tvg-logo="" group-title="Live: Spain",ES: Alquiler 6
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/12648
+#EXTINF:-1 tvg-ID="alquiler1.es" tvg-name="ES: Alquiler 7" tvg-logo="" group-title="Live: Spain",ES: Alquiler 7
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/12649
+#EXTINF:-1 tvg-ID="alquiler2.es" tvg-name="ES: Alquiler 8" tvg-logo="" group-title="Live: Spain",ES: Alquiler 8
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/12650
+#EXTINF:-1 tvg-ID="alquiler3.es" tvg-name="ES: Alquiler 9" tvg-logo="" group-title="Live: Spain",ES: Alquiler 9
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/12651
+#EXTINF:-1 tvg-ID="alquiler4.es" tvg-name="ES: Alquiler 10" tvg-logo="" group-title="Live: Spain",ES: Alquiler 10
+http://clientportal-worldiptv.club:8080/Christer123/123Christer/12643
